@@ -1,5 +1,4 @@
 # Contributors
-- [Areeba Asif Javed](https://github.com/areebactech)
 - [Anirudh](https://github.com/anirudh240)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
@@ -20,6 +19,7 @@
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [andyyou7549](https://github.com/andyyou7549)
+- [Areeba Asif Javed](https://github.com/areebactech)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
